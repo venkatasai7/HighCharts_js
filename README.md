@@ -6,7 +6,15 @@ after clicking on "PQR"
 ![image](https://github.com/venkatasai7/HighCharts_js/assets/87575630/1f19a357-0044-4095-9517-ee798ca02d5d)
 
 after clickingon one of the year.
-![image](https://github.com/venkatasai7/HighCharts_js/assets/87575630/5626f300-b373-4f49-bac4-25b2ddb19fe8)
+![image](https://github.com/venkatasai7/HighCharts_js/assets/87575630/90bc62d7-5bf2-41df-8b65-d1962393597f)
+
+
+after selecting a month
+![image](https://github.com/venkatasai7/HighCharts_js/assets/87575630/63fa380f-2d95-419c-bb60-2af40ee7b875)
+
+
+
+
 
 
 
