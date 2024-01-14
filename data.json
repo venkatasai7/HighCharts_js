@@ -1,0 +1,7002 @@
+[
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 618.2021
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 361.679
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 284.9356
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 753.343
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 1396.7443
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 1030.8367
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 1644.349
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 1935.7123
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 854.1252
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 1962.5845
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 1384.0257
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 508.4836
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 11.0084
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 1427.0018
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 812.7078
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 1109.8367
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 319.0339
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1387.7747
+  },
+  {
+    "company": "ABC",
+    "year": 2011,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 817.2852
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 1008.8199
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 696.1181
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 1605.4744
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 39.8616
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 1927.1873
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 168.4084
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 978.8292
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "February",
+    "Type": "PolicyChange",
+    "Premium": 1135.387
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 1190.0482
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 557.6765
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 1845.183
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 388.823
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1848.5171
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 921.6421
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 333.7921
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 140.8462
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 1520.2337
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 1435.786
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 1323.6025
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1164.8198
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 262.2639
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 500.8264
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 1370.3925
+  },
+  {
+    "company": "ABC",
+    "year": 2011,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 1461.6048
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1858.5551
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 931.5516
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 810.2336
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "October",
+    "Type": "PolicyChange",
+    "Premium": 1910.7564
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 297.8187
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 2.8069
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "September",
+    "Type": "PolicyChange",
+    "Premium": 1963.6056
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 810.9811
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 499.5612
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 121.8823
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 392.9808
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 849.2895
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 1123.436
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 636.5027
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "August",
+    "Type": "CancelPending",
+    "Premium": 1142.076
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 239.0272
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 845.6306
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 1910.4821
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 158.2638
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 703.3821
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 943.9806
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 155.2455
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 1930.7695
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "February",
+    "Type": "Renewal",
+    "Premium": 563.4265
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "February",
+    "Type": "PolicyChange",
+    "Premium": 255.9934
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 894.4109
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1740.8814
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 670.1004
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 1670.3462
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 1534.7318
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 1911.6667
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 1906.9025
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 857.0615
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 1730.5041
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 1508.7491
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 1651.1234
+  },
+  {
+    "company": "ABC",
+    "year": 2011,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 1253.6219
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 1804.173
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 237.6883
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 546.5521
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 537.8587
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 1515.0024
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 1069.5773
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 1100.6604
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 1703.1509
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 80.1253
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "October",
+    "Type": "PolicyChange",
+    "Premium": 1547.2738
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 537.8357
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 923.4873
+  },
+  {
+    "company": "ABC",
+    "year": 2011,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 339.5314
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 2.1165
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 759.0468
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1301.1706
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 208.9195
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 1110.4056
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 1994.5983
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 1494.3939
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 344.0655
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "October",
+    "Type": "PolicyChange",
+    "Premium": 1331.1059
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 73.9322
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 1203.5994
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "October",
+    "Type": "PolicyChange",
+    "Premium": 1694.9632
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "September",
+    "Type": "PolicyChange",
+    "Premium": 950.0295
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1321.4333
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 660.7106
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 344.898
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 1598.415
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 722.7878
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "September",
+    "Type": "PolicyChange",
+    "Premium": 710.8968
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "September",
+    "Type": "PolicyChange",
+    "Premium": 303.2712
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 386.8264
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 1141.954
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1441.9111
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 2.1141
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 1590.2412
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 553.3511
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 914.1586
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 660.9907
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 1774.537
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 985.4946
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 1157.2043
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 683.0447
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1211.5821
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 299.4096
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 748.4746
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 1527.4759
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1578.9395
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 1152.4598
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 45.7108
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 996.0153
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 1443.0762
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 1691.6693
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 591.7217
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 1692.914
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 429.692
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 51.4259
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "February",
+    "Type": "Renewal",
+    "Premium": 710.0519
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 939.8827
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 557.5964
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 1195.9865
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 1639.2586
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 647.1543
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 534.9969
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 722.117
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 1391.6665
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 8.117
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 1278.8191
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 1735.2454
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 1103.3316
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 1776.9937
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 1366.8081
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 1167.0783
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "October",
+    "Type": "PolicyChange",
+    "Premium": 230.2478
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 465.6457
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 675.5627
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 569.5211
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 843.9326
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 777.1409
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 1689.3331
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 1635.5874
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 951.0576
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 1624.0021
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 1768.7632
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 1313.9721
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 818.6192
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 1754.8892
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 309.3265
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 396.8553
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "August",
+    "Type": "CancelPending",
+    "Premium": 1047.3796
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 962.2047
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 1588.9057
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 1943.0944
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 1385.2647
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 977.5178
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 1251.6778
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 654.7036
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 174.2665
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 1808.349
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 1532.6625
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 128.7861
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 1938.4801
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 1422.0838
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 1221.9055
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 880.6152
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 1234.2383
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 678.6842
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 105.263
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 813.3104
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 599.4182
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "August",
+    "Type": "CancelPending",
+    "Premium": 1642.7409
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 1675.8004
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1856.732
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 943.9771
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 1158.916
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 1283.0982
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 928.5944
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 1458.26
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 1661.3203
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 1469.6117
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 10.4079
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 332.4607
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 8.7555
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 187.5429
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 1785.3151
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 17.8459
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 94.2128
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 660.7493
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 1108.972
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1111.0454
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 632.5293
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 294.8908
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "February",
+    "Type": "Renewal",
+    "Premium": 1430.9755
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1253.9671
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 484.9422
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 71.4514
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 1488.4991
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 1064.7828
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "February",
+    "Type": "PolicyChange",
+    "Premium": 773.7593
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 897.6362
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 510.3733
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 1873.746
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 303.3579
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 858.4554
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 1080.809
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 356.031
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 253.2897
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 199.3687
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 959.4941
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "February",
+    "Type": "Renewal",
+    "Premium": 326.9933
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 215.0316
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "August",
+    "Type": "CancelPending",
+    "Premium": 676.7697
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 1914.4842
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 1978.653
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 315.4623
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 1150.1678
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 476.2189
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 1715.2923
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 1820.1293
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 1364.58
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 1842.9964
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 1564.2853
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 1238.3256
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 1367.5869
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "August",
+    "Type": "CancelPending",
+    "Premium": 1534.3225
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 1973.1378
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 1205.1362
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 1894.3762
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 188.3196
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 24.9818
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 1904.7291
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 1050.4388
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "August",
+    "Type": "CancelPending",
+    "Premium": 1355.6544
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 832.7471
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1851.969
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 786.3671
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 996.3793
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 1953.4081
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 34.3103
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 1299.0793
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 395.2914
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 368.4349
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 335.5661
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 833.2417
+  },
+  {
+    "company": "ABC",
+    "year": 2011,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 1704.7615
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 1614.5015
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 1094.2983
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 1907.142
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "February",
+    "Type": "Renewal",
+    "Premium": 1703.2952
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 1089.9703
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 322.0034
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 74.5223
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "August",
+    "Type": "CancelPending",
+    "Premium": 1327.7762
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 481.4984
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 627.0274
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 1933.9
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 1179.9669
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 569.3613
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 49.3179
+  },
+  {
+    "company": "ABC",
+    "year": 2011,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 326.0755
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 1966.5208
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1037.8775
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 1415.5172
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 751.4227
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 1786.8459
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 405.8445
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 674.4225
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 231.4198
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 1792.8192
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 551.9308
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 956.5368
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 1635.0745
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 1645.3926
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 652.3942
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 840.8772
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 904.6457
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 1767.8254
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 131.0639
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 1233.8989
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 1027.6267
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 769.0733
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 1186.5744
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 227.6142
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 762.9133
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 1344.1772
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 602.6082
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 1838.2661
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 1764.3686
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 1752.8923
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 708.759
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 1865.5335
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 701.3271
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 983.6
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 1243.1505
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 1578.6836
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 273.8985
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 1771.0088
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 908.3693
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 60.6374
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1380.7725
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1462.0238
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 847.2384
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 599.1387
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 1676.9004
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 1379.4403
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "October",
+    "Type": "PolicyChange",
+    "Premium": 704.5174
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 1543.5437
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 1952.2254
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 1477.1615
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 540.0848
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 1218.7765
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 808.8486
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 1859.9893
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 1141.3561
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 1442.2599
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 393.4491
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 9.3119
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 1451.1701
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 1603.7107
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 1981.1907
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 1737.6433
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 1047.6661
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 848.4222
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 1117.4213
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "October",
+    "Type": "PolicyChange",
+    "Premium": 442.2447
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 1655.1087
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 436.9916
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 1030.5903
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 1228.3386
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1915.336
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1809.0139
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 800.5491
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1508.6521
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 555.5098
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 333.976
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 578.4332
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 238.283
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 925.8765
+  },
+  {
+    "company": "ABC",
+    "year": 2011,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 1712.546
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 2.6759
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 385.1858
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 292.6549
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 926.2102
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 348.9714
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 952.3858
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 440.7242
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1277.2814
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1684.9489
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 353.48
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 1905.5567
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1054.5411
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 1640.1357
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 1546.4532
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 498.6151
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "February",
+    "Type": "PolicyChange",
+    "Premium": 1641.5824
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 1048.7743
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 1803.2515
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1160.0513
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 146.6321
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 768.2951
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "February",
+    "Type": "Renewal",
+    "Premium": 858.8284
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 1908.1149
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 917.3328
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 181.8734
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 879.9499
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 782.2164
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 217.2136
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 1001.8256
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 88.7303
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 1238.0346
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1576.7983
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 877.1629
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 648.1246
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "February",
+    "Type": "Renewal",
+    "Premium": 707.8343
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 73.2875
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 1388.1788
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 668.7054
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 1023.9318
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 1392.0617
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 1236.1892
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 1009.3729
+  },
+  {
+    "company": "ABC",
+    "year": 2011,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 1249.8039
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 1685.2132
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 664.21
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 1775.6827
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 481.7407
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 1723.6618
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 748.9832
+  },
+  {
+    "company": "ABC",
+    "year": 2011,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 492.3728
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 1662.7759
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 292.8694
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 1857.7434
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 762.7018
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 868.1412
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 35.3217
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 268.4806
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 609.8453
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 1787.0737
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 349.5974
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 547.3688
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1826.3461
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 653.297
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 1219.8361
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 474.853
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 446.1761
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 530.4065
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 29.3015
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 656.3049
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 1651.644
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 191.0744
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 1901.5582
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 1490.4288
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 1664.6358
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 1492.5741
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "September",
+    "Type": "PolicyChange",
+    "Premium": 1210.0369
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "October",
+    "Type": "PolicyChange",
+    "Premium": 595.3607
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 1033.8625
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1879.8277
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 1081.6068
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "February",
+    "Type": "Renewal",
+    "Premium": 1238.8807
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 1018.5632
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 566.1372
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 144.4281
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 1532.3201
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 1183.7655
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 885.1158
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 1681.9038
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 140.0788
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 980.6824
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 559.9127
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "February",
+    "Type": "PolicyChange",
+    "Premium": 984.3596
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "October",
+    "Type": "PolicyChange",
+    "Premium": 451.9872
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 1778.0762
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 736.2064
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 644.6279
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 1883.1243
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 752.8142
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 155.445
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 1267.8948
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 646.6178
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 247.3931
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 1140.3283
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 1365.5438
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 1437.8413
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 485.0003
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "February",
+    "Type": "Renewal",
+    "Premium": 776.9006
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 469.1446
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 751.4957
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 866.6821
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 1040.7867
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 1000.364
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 992.416
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 1878.7026
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 531.452
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "September",
+    "Type": "PolicyChange",
+    "Premium": 1753.4616
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 1567.5328
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 1514.2749
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 166.4649
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 256.6387
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1034.5074
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 901.8556
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 860.1642
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1271.5191
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 1730.4961
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1773.2587
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 642.6422
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 224.8874
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 1429.3569
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 1203.2444
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 225.476
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 292.8472
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 530.7652
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 1674.124
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 1752.4921
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1322.2925
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 742.5613
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 934.4283
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 67.666
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 415.1981
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 600.4247
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 505.4157
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 207.5592
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 1242.388
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "September",
+    "Type": "PolicyChange",
+    "Premium": 806.7696
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 1272.9192
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 1325.1431
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 1788.1461
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 1707.5154
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "February",
+    "Type": "Renewal",
+    "Premium": 557.6827
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 549.1341
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 993.4636
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 88.0322
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1005.4103
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 1855.578
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 1032.3336
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 777.1104
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 190.1448
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 1966.6667
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 1039.0249
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 9.871
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 67.2318
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 1561.5775
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 374.368
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 1665.0943
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 85.515
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 737.2324
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1079.7922
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 132.6874
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 1195.5464
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 456.1513
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 165.5764
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 968.3797
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 63.7046
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 479.4227
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 1293.2871
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 1934.3346
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 445.366
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 858.0116
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 516.6
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 970.7285
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 940.6909
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 1400.8905
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 728.1325
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 525.1235
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 123.2426
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 22.8979
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 1220.0903
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "August",
+    "Type": "CancelPending",
+    "Premium": 968.4372
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 892.0004
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 612.7128
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 116.1401
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 521.0432
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "February",
+    "Type": "PolicyChange",
+    "Premium": 724.5136
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 1345.3849
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 1799.6244
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 1583.3567
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 70.8215
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 1590.9748
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 771.3823
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1247.7142
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 881.2523
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1225.7451
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 1392.3057
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 163.6497
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 544.9556
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 1894.378
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 816.8978
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 214.0537
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 1649.0565
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 339.168
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 687.4541
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 1055.5498
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "February",
+    "Type": "PolicyChange",
+    "Premium": 653.7843
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1038.1254
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 218.7892
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 713.2979
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 8.818
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 1141.2252
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 1568.4615
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 728.6214
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 1615.2359
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 676.8268
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 1953.7535
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 180.3952
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 539.8588
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "October",
+    "Type": "PolicyChange",
+    "Premium": 529.7756
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 1406.5524
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 1155.094
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 1556.0206
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 1506.8857
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 1585.603
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 552.3686
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 1729.0441
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 1074.1508
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 1692.6656
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 1602.2002
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 1149.9446
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 1279.7537
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 1381.3009
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "February",
+    "Type": "PolicyChange",
+    "Premium": 1576.3432
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 1851.2241
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 87.6632
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 68.9025
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 1565.4509
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 88.6377
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "September",
+    "Type": "PolicyChange",
+    "Premium": 1200.0914
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 1182.5108
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 1352.649
+  },
+  {
+    "company": "ABC",
+    "year": 2011,
+    "month": "February",
+    "Type": "Renewal",
+    "Premium": 295.0626
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 22.2681
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 1121.3668
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 21.0167
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 384.8585
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1406.9987
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "October",
+    "Type": "PolicyChange",
+    "Premium": 1520.8973
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "August",
+    "Type": "CancelPending",
+    "Premium": 446.136
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 1511.3722
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 614.6909
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 50.165
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 233.5005
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 907.18
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 933.1291
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 942.1271
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 1637.7009
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 490.967
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 653.5682
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "September",
+    "Type": "PolicyChange",
+    "Premium": 1236.0076
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 1822.8377
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 1669.5592
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 1691.7044
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 1509.2424
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 1320.6207
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 1458.2257
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 709.1825
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 688.5277
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "September",
+    "Type": "PolicyChange",
+    "Premium": 1388.2866
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 1563.8822
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 422.3576
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 2.4674
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 849.1047
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "September",
+    "Type": "PolicyChange",
+    "Premium": 1679.8009
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 909.0045
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 1466.3206
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 228.8084
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 1055.6983
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 793.7725
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 1398.5337
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 999.0727
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 1936.7757
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 1829.3696
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 1109.5768
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 1183.723
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 1830.9617
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 491.2947
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 69.9988
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "February",
+    "Type": "PolicyChange",
+    "Premium": 170.0223
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 527.632
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 1680.8636
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "February",
+    "Type": "PolicyChange",
+    "Premium": 889.903
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 1373.5677
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "September",
+    "Type": "PolicyChange",
+    "Premium": 360.2332
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 969.5225
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 1118.6522
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 904.9366
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 1415.7773
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 1989.3003
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 438.3277
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 1190.8737
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 1847.3089
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 230.0002
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 1333.6701
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 534.319
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 1299.4838
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 472.3383
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 125.2044
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 1338.4072
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 1378.1564
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 30.6405
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 183.9706
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 449.5796
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "February",
+    "Type": "Renewal",
+    "Premium": 719.8759
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 1211.5352
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1415.3055
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 1478.2281
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 166.0332
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 1464.144
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "April",
+    "Type": "Renewal",
+    "Premium": 1840.5556
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 737.7255
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 695.2864
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 1908.5809
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "February",
+    "Type": "PolicyChange",
+    "Premium": 1766.0372
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 1237.8745
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 1409.4859
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 1982.7192
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 160.6207
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 35.0989
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 1014.0951
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 358.6365
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 1958.7739
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 1097.131
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 525.5841
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 462.2297
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 849.5628
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 651.2058
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 1357.9155
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 1831.3222
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 371.1202
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 853.7788
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 158.3968
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 1889.4185
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 1040.0194
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 468.9879
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 204.3296
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 1829.5177
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 1582.3723
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 507.4349
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 1096.4205
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 1135.0131
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 1887.7943
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 1822.4773
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 404.9105
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1615.7347
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 581.5402
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 606.6413
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 975.3004
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 1581.8561
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 1963.754
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 1482.2632
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 1744.1403
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 404.6566
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 1999.648
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 688.4159
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 1173.4901
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 1647.9886
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 1516.3354
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 295.4886
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 693.2631
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 1391.7915
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 606.9636
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 1583.8821
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 726.8939
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 285.5221
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 299.5577
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 1066.7056
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 1661.5789
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 804.7883
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 1102.7044
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 1924.4485
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 1088.1515
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 1494.2239
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 1502.5449
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 119.4757
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 1264.0936
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 663.7364
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1131.1106
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 498.0227
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 641.7632
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 824.0473
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 909.8245
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 1733.3299
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 421.1375
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 209.285
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 831.7421
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 1640.9984
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 857.1808
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 386.1739
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 558.445
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 1105.2129
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 1763.1415
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 1291.0417
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 1517.5442
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 494.1991
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 478.3617
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 1969.1735
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 1026.5941
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "February",
+    "Type": "Renewal",
+    "Premium": 77.6372
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 1546.2173
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 359.8036
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 1536.7332
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 621.3306
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 213.1358
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 653.2207
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 1836.4155
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 1419.0175
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 1313.1532
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 603.5018
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 302.8761
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 757.7709
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 1294.261
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "February",
+    "Type": "PolicyChange",
+    "Premium": 1802.1959
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 1053.2355
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 780.1162
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 69.2169
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 1775.5515
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 606.9569
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 1858.4124
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 901.4244
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 1361.1981
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 1114.0437
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 202.9602
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 17.681
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 1157.3982
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 353.7972
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 415.2438
+  },
+  {
+    "company": "XYZ",
+    "year": 2021,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 962.0586
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 1343.9528
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 131.4612
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 1815.801
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 1108.164
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 1672.6344
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 309.6077
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 908.7398
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 484.7319
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 551.9189
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 1437.8812
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 1817.8067
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 1535.1802
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 378.6633
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 381.4878
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 1590.2945
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 1149.0204
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 191.7443
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 53.7383
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 233.2222
+  },
+  {
+    "company": "PQR",
+    "year": 2014,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 603.6403
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 581.6834
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 31.325
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 217.4707
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 1198.4071
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 759.16
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 801.5625
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 199.742
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 178.1764
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 971.8075
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "August",
+    "Type": "CancelPending",
+    "Premium": 1719.0108
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 1959.0848
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 1505.6675
+  },
+  {
+    "company": "XYZ",
+    "year": 2012,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 1604.476
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 1896.3949
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 1724.8158
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 1852.3002
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 130.2373
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 1613.7904
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 1362.0528
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 969.4005
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 1553.4233
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "January",
+    "Type": "PolicyChange",
+    "Premium": 873.8323
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 1247.8124
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 1723.6085
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 607.0684
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 1637.4607
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 324.139
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 466.6382
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1842.5486
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 586.031
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 692.1511
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 885.9925
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 982.658
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 919.5716
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 1842.6445
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 167.6892
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 1574.8274
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 594.7418
+  },
+  {
+    "company": "ABC",
+    "year": 2011,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 116.3636
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1053.4651
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 848.0023
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 311.5461
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 1049.3268
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 1325.3223
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "August",
+    "Type": "CancelPending",
+    "Premium": 414.0746
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 779.6967
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 1158.1908
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 896.6068
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "September",
+    "Type": "PolicyChange",
+    "Premium": 324.63
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "August",
+    "Type": "CancelPending",
+    "Premium": 1041.9134
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 412.8842
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 1497.9184
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 572.0102
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 399.9037
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 264.6355
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 417.0395
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 742.154
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "February",
+    "Type": "Renewal",
+    "Premium": 813.6407
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 1163.1451
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 1295.9788
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1037.6576
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 1938.0577
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 1037.3601
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "February",
+    "Type": "PolicyChange",
+    "Premium": 1433.2731
+  },
+  {
+    "company": "PQR",
+    "year": 2025,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 1824.8178
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 823.7992
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 730.9923
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 508.7729
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 1612.8779
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "October",
+    "Type": "Renewal",
+    "Premium": 1049.8961
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 21.48
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 31.4546
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 1610.5867
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "March",
+    "Type": "NewSubscription",
+    "Premium": 315.3146
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 223.7783
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 659.3934
+  },
+  {
+    "company": "XYZ",
+    "year": 2015,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 4.2286
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 1331.6559
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 313.5721
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 1867.61
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 1010.1738
+  },
+  {
+    "company": "ABC",
+    "year": 2017,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 243.1839
+  },
+  {
+    "company": "XYZ",
+    "year": 2020,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 874.6047
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 287.0696
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 360.9459
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 133.514
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 1192.5747
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 131.922
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "September",
+    "Type": "NewSubscription",
+    "Premium": 1578.5906
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 1229.7325
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 1661.9276
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 1495.8982
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 411.192
+  },
+  {
+    "company": "XYZ",
+    "year": 2013,
+    "month": "February",
+    "Type": "PolicyChange",
+    "Premium": 187.2691
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 583.3605
+  },
+  {
+    "company": "ABC",
+    "year": 2018,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 477.1145
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 719.9401
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 502.1294
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 30.962
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "February",
+    "Type": "NewSubscription",
+    "Premium": 1676.7911
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 97.067
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "June",
+    "Type": "NewSubscription",
+    "Premium": 1872.3755
+  },
+  {
+    "company": "ABC",
+    "year": 2019,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 243.0539
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 1189.0203
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "November",
+    "Type": "Renewal",
+    "Premium": 298.5262
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 714.8164
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 383.6413
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 160.6647
+  },
+  {
+    "company": "PQR",
+    "year": 2017,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 1573.1118
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 726.7208
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 186.1477
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "November",
+    "Type": "NewSubscription",
+    "Premium": 1278.2544
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 674.7583
+  },
+  {
+    "company": "PQR",
+    "year": 2021,
+    "month": "July",
+    "Type": "NewSubscription",
+    "Premium": 1173.4527
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 1281.905
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 609.3243
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 1290.7506
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "May",
+    "Type": "NewSubscription",
+    "Premium": 1951.4463
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "August",
+    "Type": "PolicyChange",
+    "Premium": 523.6039
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "June",
+    "Type": "PolicyChange",
+    "Premium": 1491.4626
+  },
+  {
+    "company": "XYZ",
+    "year": 2022,
+    "month": "May",
+    "Type": "PolicyChange",
+    "Premium": 1201.4356
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 47.3008
+  },
+  {
+    "company": "PQR",
+    "year": 2010,
+    "month": "July",
+    "Type": "CancelPending",
+    "Premium": 1597.6223
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "April",
+    "Type": "NewSubscription",
+    "Premium": 311.9231
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 296.0809
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 874.3222
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 1529.3834
+  },
+  {
+    "company": "ABC",
+    "year": 2024,
+    "month": "November",
+    "Type": "CancelPending",
+    "Premium": 1833.6967
+  },
+  {
+    "company": "PQR",
+    "year": 2013,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1124.0437
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 1328.4199
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 579.4104
+  },
+  {
+    "company": "XYZ",
+    "year": 2016,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1826.6017
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 772.1502
+  },
+  {
+    "company": "ABC",
+    "year": 2012,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1344.4325
+  },
+  {
+    "company": "ABC",
+    "year": 2023,
+    "month": "May",
+    "Type": "Renewal",
+    "Premium": 1302.9146
+  },
+  {
+    "company": "XYZ",
+    "year": 2018,
+    "month": "July",
+    "Type": "PolicyChange",
+    "Premium": 1696.9448
+  },
+  {
+    "company": "PQR",
+    "year": 2016,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 687.1963
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "November",
+    "Type": "PolicyChange",
+    "Premium": 1446.6496
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 631.1419
+  },
+  {
+    "company": "PQR",
+    "year": 2018,
+    "month": "February",
+    "Type": "CancelPending",
+    "Premium": 43.8931
+  },
+  {
+    "company": "PQR",
+    "year": 2023,
+    "month": "October",
+    "Type": "NewSubscription",
+    "Premium": 1000.0172
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "March",
+    "Type": "PolicyChange",
+    "Premium": 1285.8364
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 1906.2413
+  },
+  {
+    "company": "XYZ",
+    "year": 2019,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 978.9731
+  },
+  {
+    "company": "ABC",
+    "year": 2013,
+    "month": "December",
+    "Type": "PolicyChange",
+    "Premium": 518.0899
+  },
+  {
+    "company": "PQR",
+    "year": 2020,
+    "month": "December",
+    "Type": "Renewal",
+    "Premium": 1937.1287
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "August",
+    "Type": "Renewal",
+    "Premium": 371.5272
+  },
+  {
+    "company": "XYZ",
+    "year": 2024,
+    "month": "September",
+    "Type": "Renewal",
+    "Premium": 509.3785
+  },
+  {
+    "company": "ABC",
+    "year": 2011,
+    "month": "July",
+    "Type": "Renewal",
+    "Premium": 1504.7998
+  },
+  {
+    "company": "XYZ",
+    "year": 2014,
+    "month": "April",
+    "Type": "PolicyChange",
+    "Premium": 1339.2902
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "April",
+    "Type": "CancelPending",
+    "Premium": 200.0219
+  },
+  {
+    "company": "ABC",
+    "year": 2010,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 319.3567
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "September",
+    "Type": "PolicyChange",
+    "Premium": 1422.5572
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 1066.6535
+  },
+  {
+    "company": "ABC",
+    "year": 2014,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 1794.034
+  },
+  {
+    "company": "ABC",
+    "year": 2015,
+    "month": "May",
+    "Type": "CancelPending",
+    "Premium": 169.3339
+  },
+  {
+    "company": "PQR",
+    "year": 2011,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 575.7483
+  },
+  {
+    "company": "ABC",
+    "year": 2022,
+    "month": "June",
+    "Type": "Renewal",
+    "Premium": 502.2949
+  },
+  {
+    "company": "PQR",
+    "year": 2012,
+    "month": "October",
+    "Type": "CancelPending",
+    "Premium": 1936.4437
+  },
+  {
+    "company": "PQR",
+    "year": 2019,
+    "month": "March",
+    "Type": "CancelPending",
+    "Premium": 1211.4114
+  },
+  {
+    "company": "ABC",
+    "year": 2020,
+    "month": "June",
+    "Type": "CancelPending",
+    "Premium": 117.4317
+  },
+  {
+    "company": "PQR",
+    "year": 2022,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 1691.2724
+  },
+  {
+    "company": "ABC",
+    "year": 2025,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 1284.2827
+  },
+  {
+    "company": "XYZ",
+    "year": 2023,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 1031.128
+  },
+  {
+    "company": "ABC",
+    "year": 2016,
+    "month": "January",
+    "Type": "Renewal",
+    "Premium": 1017.7163
+  },
+  {
+    "company": "XYZ",
+    "year": 2017,
+    "month": "March",
+    "Type": "Renewal",
+    "Premium": 650.0462
+  },
+  {
+    "company": "PQR",
+    "year": 2015,
+    "month": "August",
+    "Type": "NewSubscription",
+    "Premium": 864.9217
+  },
+  {
+    "company": "ABC",
+    "year": 2021,
+    "month": "January",
+    "Type": "NewSubscription",
+    "Premium": 1278.5928
+  },
+  {
+    "company": "XYZ",
+    "year": 2011,
+    "month": "December",
+    "Type": "NewSubscription",
+    "Premium": 68.9921
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 898.527
+  },
+  {
+    "company": "XYZ",
+    "year": 2010,
+    "month": "December",
+    "Type": "CancelPending",
+    "Premium": 373.9087
+  },
+  {
+    "company": "XYZ",
+    "year": 2025,
+    "month": "January",
+    "Type": "CancelPending",
+    "Premium": 1216.2239
+  },
+  {
+    "company": "PQR",
+    "year": 2024,
+    "month": "September",
+    "Type": "CancelPending",
+    "Premium": 1426.1547
+  }
+]
